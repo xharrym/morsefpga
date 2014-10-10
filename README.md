@@ -1,4 +1,4 @@
-morsepython
+morsefpga
 ===========
 
-A morse code decoder written in python.
+A morse code decoder written in Verilog.
